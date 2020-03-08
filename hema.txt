@@ -1,6 +1,3 @@
 hai hema
-<<<<<<< HEAD
 1 added
 2
-=======
->>>>>>> parent of 6c7d8cf... hai
